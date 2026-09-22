@@ -2,6 +2,8 @@
 
 直接打开 `index.html` 即可预览。
 
+在线版本：https://wanghaian.github.io/ai-quality-resume/
+
 ## 媒体文件
 
 - `assets/avatar-front-v1.png`：当前静态人物基准图。
